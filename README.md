@@ -1,7 +1,6 @@
 # izzzy_coin
 IzzzyCoin information 
 
-# basic_info
 Symbol: IZZZY
 Name: IzzzyCoin
 Type: ERC20
@@ -13,7 +12,7 @@ address: 0xA198c90fd67c5d3e96C830a18705C8705F3ae3b0
 decimals: 18
 
 [website](https://izzzy.xyz/)
-[logo500x500](https://gateway.ipfscdn.io/ipfs/QmNQqBGZg9bAxNCgVaS9szy2NqiBva8mYmHwuEgA8pQK9B/0.png)
+[logo](https://gateway.ipfscdn.io/ipfs/QmNQqBGZg9bAxNCgVaS9szy2NqiBva8mYmHwuEgA8pQK9B/0.png)
 
 # quickswap
 [liquidity pool](https://quickswap.exchange/#/add/ETH/0xA198c90fd67c5d3e96C830a18705C8705F3ae3b0)
