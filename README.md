@@ -11,6 +11,12 @@ network: Polygon Matic mainnet
 address: 0xA198c90fd67c5d3e96C830a18705C8705F3ae3b0
 decimals: 18
 
+# social: 
+[discord](https://discord.gg/RMka34MTEC)
+[github](https://github.com/izzzy-xyz)
+[linkedin](https://www.linkedin.com/company/izzzy/)
+[twitter](https://twitter.com/izzzy_xyz)
+
 [website](https://izzzy.xyz/)
 [logo](https://gateway.ipfscdn.io/ipfs/QmNQqBGZg9bAxNCgVaS9szy2NqiBva8mYmHwuEgA8pQK9B/0.png)
 
@@ -24,8 +30,4 @@ support:
 organizations:
 [open collective](https://opencollective.com/izzzyxyz)
 
-# social: 
-[discord](https://discord.gg/RMka34MTEC)
-[github](https://github.com/izzzy-xyz)
-[linkedin](https://www.linkedin.com/company/izzzy/)
-[twitter](https://twitter.com/izzzy_xyz)
+
