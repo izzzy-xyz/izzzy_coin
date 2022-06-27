@@ -5,7 +5,7 @@ IzzzyCoin information
 ##### name: IzzzyCoin
 ##### type: ERC20
 
-![logo32x32](https://user-images.githubusercontent.com/52882128/175814022-41a6feb7-b474-47d3-bb92-6dd2c0c7e1f4.png)
+##### logo: ![logo32x32](https://user-images.githubusercontent.com/52882128/175814022-41a6feb7-b474-47d3-bb92-6dd2c0c7e1f4.png)
 
 ##### network: Polygon Matic mainnet
 ##### address: 0xA198c90fd67c5d3e96C830a18705C8705F3ae3b0
