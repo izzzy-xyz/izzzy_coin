@@ -1,7 +1,7 @@
 # izzzy_coin
 IzzzyCoin information 
 
-Symbol: IZZZY
+##### Symbol: IZZZY
 Name: IzzzyCoin
 Type: ERC20
 
