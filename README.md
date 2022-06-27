@@ -12,7 +12,7 @@ IzzzyCoin information
 ##### decimals: 18
 ##### total supply: 100.000.000
 
-# social: 
+### social: 
 [discord](https://discord.gg/RMka34MTEC)
 [github](https://github.com/izzzy-xyz)
 [linkedin](https://www.linkedin.com/company/izzzy/)
@@ -21,7 +21,7 @@ IzzzyCoin information
 [website](https://izzzy.xyz/)
 [logo](https://gateway.ipfscdn.io/ipfs/QmNQqBGZg9bAxNCgVaS9szy2NqiBva8mYmHwuEgA8pQK9B/0.png)
 
-# quickswap
+### quickswap
 [liquidity pool](https://quickswap.exchange/#/add/ETH/0xA198c90fd67c5d3e96C830a18705C8705F3ae3b0)
 
 support: 
