@@ -10,6 +10,7 @@ Type: ERC20
 network: Polygon Matic mainnet
 address: 0xA198c90fd67c5d3e96C830a18705C8705F3ae3b0
 decimals: 18
+total supply: 100.000.000
 
 # social: 
 [discord](https://discord.gg/RMka34MTEC)
