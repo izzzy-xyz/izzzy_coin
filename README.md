@@ -1,9 +1,9 @@
 # izzzy_coin
 IzzzyCoin information 
 
-##### symbol: IZZZY
-##### name: IzzzyCoin
-##### type: ERC20
+- symbol: IZZZY
+- name: IzzzyCoin
+- type: ERC20
 
 ##### logo: ![logo32x32](https://user-images.githubusercontent.com/52882128/175814022-41a6feb7-b474-47d3-bb92-6dd2c0c7e1f4.png)
 
