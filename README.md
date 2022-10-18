@@ -17,7 +17,7 @@ social:
 - [twitter](https://twitter.com/izzzy_xyz)
 
 quickswap
-- [liquidity pool](https://quickswap.exchange/#/add/ETH/0xA198c90fd67c5d3e96C830a18705C8705F3ae3b0)
+- [liquidity pool](https://quickswap.exchange/#/pools?currency0=ETH&currency1=0x612e62488A2d36018ec7539a6a8BcfFC412B5eD6)
 
 support: 
 - [email](contact@izzzy.xyz)
