@@ -6,7 +6,7 @@ IzzzyCoin information
 - name: IzzzyCoin
 - type: ERC20
 - network: Polygon Matic mainnet
-- address: 0xA198c90fd67c5d3e96C830a18705C8705F3ae3b0
+- address: 0x612e62488A2d36018ec7539a6a8BcfFC412B5eD6
 - decimals: 18
 - total supply: 100.000.000
 
